@@ -6,9 +6,9 @@ runnable on \*nix, OS X and Windows. It uses gtk as a crossplattform gui and hop
 shouldn't create to much problems for a small program like tic.
 
 tic has the following dependencies:
-	- *gtk*
-	- *curl* 
-	- *json-c*
+	* gtk
+	* curl
+	* json-c
 
 To install on linux, type make and then make install (with the correct permissions).
 
